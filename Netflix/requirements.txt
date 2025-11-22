@@ -1,0 +1,49 @@
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.0.0
+scikit-learn>=1.3.0
+networkx>=3.0
+```
+
+### .gitignore
+```
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files
+*.csv
+!netflix_titles.csv
+
+# Output
+netflix_charts/
+*.txt
+!README.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+```
+
+### LICENSE (MIT)
+```
+MIT License
+
+Copyright (c) 2025 [JongHun Lee]
