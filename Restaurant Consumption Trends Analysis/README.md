@@ -1,4 +1,3 @@
-# Trend Analysis 
 # Restaurant Consumption Trends Analysis
 
 > 2021–2024년 전국 음식점 소비 기반 트렌드 데이터를 활용한 지역별 RFM 클러스터링 및 마케팅 전략 도출
